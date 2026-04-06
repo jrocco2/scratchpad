@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Wonderful World of Cats",
-  description: "Discover fascinating facts, adorable breeds, and everything you need to know about our feline friends. A purr-fect website for cat lovers!",
+  title: "Cat Photo Generator",
+  description: "Generate random cat photos with the click of a button! Powered by The Cat API.",
 };
 
 export default function RootLayout({
