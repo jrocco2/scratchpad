@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/scratchpad/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800","children":["$","main",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-6xl font-bold text-gray-900 dark:text-white mb-4","children":"Hello World!"}],["$","p",null,{"className":"text-xl text-gray-600 dark:text-gray-300","children":"Welcome to your Next.js application"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"U9ABw0A2D-A1e48TVuMLz"}
+4:null
