@@ -1,6 +1,6 @@
-# Hello World Next.js App
+# 🐱 The Wonderful World of Cats
 
-A simple "Hello World" application built with Next.js, TypeScript, and Tailwind CSS.
+A beautiful, interactive website all about cats! Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Getting Started
 
@@ -17,6 +17,16 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Features
+
+This cat-themed website includes:
+- 🐾 Fascinating cat facts in beautiful card layouts
+- 🐈 Popular cat breeds with their unique traits
+- 😻 Responsive design that works on all devices
+- 🌙 Dark mode support
+- 🎨 Beautiful gradient backgrounds and smooth animations
+- 💝 A celebration of everything we love about cats!
 
 ## Deploy on Vercel
 
